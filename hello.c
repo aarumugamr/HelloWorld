@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <glibc.h>
 
 void main (void)
 {
